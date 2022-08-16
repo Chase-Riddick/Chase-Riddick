@@ -6,7 +6,7 @@
 
 
 ## About
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/chase-riddick-a14596237/](https://www.linkedin.com/in/chase-riddick-a14596237/))
+
 Former Educator and Business Operator. Enjoys sunshine, barefoot hiking, crafting compelling, homebrew D&D campaigns, swine-herding, and attempting to cross finish lines in the ill-advised ultramarathons and triathlons.
 
 Currently my toolkit consists of JavaScript, Python, React, Redux, Express, Flask, SQL, PostgreSQL, SQLAlchemy, HTML5 and CSS3. I've extensively used Git, GitHub, AWS S3 and the Google Maps API. I've been involved in multiple team-based Agile environments both in my prior work experience as a corporate trainer, but also as a fellow software engineer. In two full-stack group projects, I served as a scrum master, coordinating a shared vision, a concrete outline, and productive workflow.
@@ -14,6 +14,8 @@ Currently my toolkit consists of JavaScript, Python, React, Redux, Express, Flas
 Prior to programming, a fascination with language and culture had led me into a 10-year career in international education and corporate training. While still working in that capacity, my experience working with software engineering teams and my own experimentations with Python made me realize two things. First, that I personally found the process of technical problem solving immense satisfying. And, secondly that the most impactful advances, in education, and in probably most other things will be driven by software. Either one of those was enough to convince me to transition my career; jointly, they got me running.
 
 Transitioning back to the U.S. at the beginning of 2022 and having gotten further training with App Academy, a leading coding bootcamp, I am currently seeking opportunities to apply and expand my toolkit in an enterprise setting, and most broadly - to gain a confident grasp of the big picture of systems and solutions layers in a company's web operations.
+
+</br>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/chase-riddick-a14596237/](https://www.linkedin.com/in/chase-riddick-a14596237/))
 
 
 ## Skills
