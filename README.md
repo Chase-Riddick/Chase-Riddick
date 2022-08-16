@@ -1,4 +1,4 @@
-# (<p align='center'>Chase Riddick</p>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/andrew-stilinovic/](https://www.linkedin.com/in/chase-riddick-a14596237/)))
+# <span><p align='center'>Chase Riddick</p>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/andrew-stilinovic/](https://www.linkedin.com/in/chase-riddick-a14596237/))</span>
 ### <p align='center'>Pacific Northwest</p>
 
 ## Language & Culture ## Edtech ## Collaborative Story-telling, Improv, TTRPGS  ## Swineherding ## Ultramarathions
