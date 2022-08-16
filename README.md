@@ -1,10 +1,12 @@
-# <span><p align='center'>Chase Riddick</p>[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/andrew-stilinovic/](https://www.linkedin.com/in/chase-riddick-a14596237/))</span>
+# <p align='center'>Chase Riddick</p>
+
 ### <p align='center'>Pacific Northwest</p>
 
-## Language & Culture ## Edtech ## Collaborative Story-telling, Improv, TTRPGS  ## Swineherding ## Ultramarathions
+## Language & Culture - Edtech - Collaborative Story-telling, Improv, TTRPGS  - Swineherding - Ultramarathions
 
 
 ## About
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/chase-riddick-a14596237/](https://www.linkedin.com/in/chase-riddick-a14596237/))
 Former Educator and Business Operator. Enjoys sunshine, barefoot hiking, crafting compelling, homebrew D&D campaigns, swine-herding, and attempting to cross finish lines in the ill-advised ultramarathons and triathlons.
 
 Currently my toolkit consists of JavaScript, Python, React, Redux, Express, Flask, SQL, PostgreSQL, SQLAlchemy, HTML5 and CSS3. I've extensively used Git, GitHub, AWS S3 and the Google Maps API. I've been involved in multiple team-based Agile environments both in my prior work experience as a corporate trainer, but also as a fellow software engineer. In two full-stack group projects, I served as a scrum master, coordinating a shared vision, a concrete outline, and productive workflow.
