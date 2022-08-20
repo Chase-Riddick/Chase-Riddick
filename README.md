@@ -2,7 +2,7 @@
 
 ### <p align='center'>Pacific Northwest</p>
 
-## <p align='center'>Language & Culture - Edtech - Collaborative Story-telling, Improv, TTRPGS  - Swineherding - Ultramarathions</p>
+## <p align='center'>Language & Culture - Edtech - Collaborative Story-telling - Improv - TTRPGS - Swineherding - Ultramarathions</p>
 
 
 ## About
